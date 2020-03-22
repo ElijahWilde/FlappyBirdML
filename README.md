@@ -12,16 +12,13 @@ First, I would like to give an enormous shoutout to the “Tech With Tim” yout
 
 After completing his tutorials and building my own AI, however, I discovered that normal Flappy Bird was slightly too easy to beat using ML. Because the game is so simple, an AI that could beat flappy bird would often be created within the first three generations. I made Flappy Bird EXTREME to push the limits of what AI could do. In Flappy Bird EXTREME, the gaps between pipes are smaller and the game moves 50% faster. The graphics are also cooler. 
 
-# Run in Gitpod
+# How do I run your code?
 Just run *flappy_bird.py* and watch the AI train itself automatically!
 
-You can also run NEAT-Flappy-Bird in Gitpod, a free online dev environment for GitHub:
+Or, click the Gitpod link below to run my code in a free online IDE.
 
-If you're intersted in a paid subscription with GitPod use the coupon code: TECHWITHTIM19
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ElijahWilde/FlappyBirdML/blob/master/flappy_bird.py)
-
-
-
-
+An AI learning to play normal Flappy Bird (should take 1-3 generations) (repository by Tech With Tim).
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/NEAT-Flappy-Bird/blob/master/flappy_bird.py)
+
+An AI learning to play my Flappy Bird EXTREME (should take 8-12 generations).
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ElijahWilde/FlappyBirdML/blob/master/flappy_bird.py)
