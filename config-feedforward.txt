@@ -1,3 +1,4 @@
+# this file is passed to my neural network and specifies the way it should be trained
 [NEAT]
 fitness_criterion     = max
 fitness_threshold     = 100
