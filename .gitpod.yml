@@ -1,4 +1,5 @@
-#makes sure gitpod works
+# makes sure gitpod works
+
 image: gitpod/workspace-full-vnc
 ports:
   - port: 5900
