@@ -1,3 +1,5 @@
+# this file lets you see all of the generations of flappy birds
+
 from __future__ import print_function
 
 import copy
