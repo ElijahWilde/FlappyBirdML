@@ -10,7 +10,7 @@ https://towardsdatascience.com/neat-an-awesome-approach-to-neuroevolution-3eca5c
 # Process
 First, I would like to give an enormous shoutout to the “Tech With Tim” youtube channel. This project created primarily by following the tutorials available on his channel (https://www.youtube.com/watch?v=OGHA-elMrxI).
 
-After completing his tutorials and building my own AI, however, I discovered that normal Flappy Bird was slightly too easy to beat using ML. Because the game is so simple, an AI that could beat flappy bird would often be created within the first three generations. I made Flappy Bird EXTREME to push the limits of what AI could do. In Flappy Bird EXTREME, the gaps between pipes are smaller and the game moves 50% faster. The graphics are also cooler. 
+After completing his tutorials and building my own AI, however, I discovered that normal Flappy Bird was slightly too easy to beat using ML. Because the game is so simple, an AI that could beat flappy bird would often be created within the first three generations. I made Flappy Bird EXTREME to push the limits of what AI could do. In Flappy Bird EXTREME, the gaps between pipes are 20% smaller and the game moves twice as fast. The graphics are also cooler. 
 
 # How do I run your code?
 Just run *flappy_bird.py* and watch the AI train itself automatically!
