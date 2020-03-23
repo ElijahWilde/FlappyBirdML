@@ -20,5 +20,5 @@ Or, click the Gitpod link below to run my code in a free online IDE.
 An AI learning to play normal Flappy Bird (should take 1-3 generations) (repository by Tech With Tim).
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/NEAT-Flappy-Bird/blob/master/flappy_bird.py)
 
-An AI learning to play my Flappy Bird EXTREME (should take 8-12 generations).
+An AI learning to play my Flappy Bird EXTREME (should take 6-8 generations).
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ElijahWilde/FlappyBirdML/blob/master/flappy_bird.py)
